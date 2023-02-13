@@ -6,8 +6,8 @@
 <head runat="server">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
     <title></title>
-    <link href="ESTILOS/estilos.css" rel="stylesheet" />
-    <script src="SCRIPTS/clientejs.js"></script>
+    <link href="CSS/estilos.css" rel="stylesheet" />
+    <script src="JS/clientejs.js"></script>
 </head>
 <body>
     <form id="form1" runat="server">
